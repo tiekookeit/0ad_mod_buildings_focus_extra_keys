@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object>
+	<object hotkey="session.focusciviccentre">
+		<action on="Press">focusCivicCentre_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusdock">
+		<action on="Press">focusDock_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusbarracks">
+		<action on="Press">focusBarracks_onHotkey();</action>
+	</object>
+	<object hotkey="session.focuscorral">
+		<action on="Press">focusCorral_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusblacksmith">
+		<action on="Press">focusBlacksmith_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusarsenal">
+		<action on="Press">focusArsenal_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusfortress">
+		<action on="Press">focusFortress_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusmarket">
+		<action on="Press">focusMarket_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusstable">
+		<action on="Press">focusStable_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusfarmstead">
+		<action on="Press">focusFarmstead_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusoutpost">
+		<action on="Press">focusOutpost_onHotkey();</action>
+	</object>
+	<object hotkey="session.focuswonder">
+		<action on="Press">focusWonder_onHotkey();</action>
+	</object>
+	<object hotkey="session.focustemple">
+		<action on="Press">focusTemple_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusstorehouse">
+		<action on="Press">focusStorehouse_onHotkey();</action>
+	</object>
+	<object hotkey="session.focushouse">
+		<action on="Press">focusHouse_onHotkey();</action>
+	</object>
+	<object hotkey="session.focussiegeworkshop">
+		<action on="Press">focusSiegeWorkshop_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusgate">
+		<action on="Press">focusGate_onHotkey();</action>
+	</object>
+	<object hotkey="session.focusdefensetower">
+		<action on="Press">focusDefenseTower_onHotkey();</action>
+	</object>
+</object>

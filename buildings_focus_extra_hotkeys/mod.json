@@ -1,0 +1,8 @@
+{
+	"name": "buildings_focus_extra_hotkeys",
+	"version": "1.0.0",
+	"label": "AoE2 Hotkeys",
+	"url": "https://github.com/0ad/0ad",
+	"description": "Adds a configurable session hotkey to select and focus the local player's main Civic Centre.",
+	"dependencies": ["0ad>=0.0.28"]
+}

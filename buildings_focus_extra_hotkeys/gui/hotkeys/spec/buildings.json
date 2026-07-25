@@ -1,0 +1,84 @@
+{
+	"categories": {
+		"ingame": {
+			"name": "In-game",
+			"desc": "In-game hotkeys."
+		}
+	},
+	"mapped_hotkeys": {
+		"ingame": {
+			"session.focusciviccentre": {
+				"name": "Focus Civic Center",
+				"desc": "Select and focus the local player's main Civic Center."
+			},
+			"session.focusdock": {
+				"name": "Focus Dock",
+				"desc": "Select and focus the local player's main Dock."
+			},
+			"session.focusbarracks": {
+				"name": "Focus Barracks",
+				"desc": "Select and focus the local player's main Barracks."
+			},
+			"session.focuscorral": {
+				"name": "Focus Corral",
+				"desc": "Select and focus the local player's main Corral."
+			},
+			"session.focusblacksmith": {
+				"name": "Focus Blacksmith",
+				"desc": "Select and focus the local player's main Blacksmith."
+			},
+			"session.focusarsenal": {
+				"name": "Focus Arsenal",
+				"desc": "Select and focus the local player's main Arsenal."
+			},
+			"session.focusfortress": {
+				"name": "Focus Fortress",
+				"desc": "Select and focus the local player's main Fortress."
+			},
+			"session.focusmarket": {
+				"name": "Focus Market",
+				"desc": "Select and focus the local player's main Market."
+			},
+			"session.focusstable": {
+				"name": "Focus Stable",
+				"desc": "Select and focus the local player's main Stable."
+			},
+			"session.focusfarmstead": {
+				"name": "Focus Farmstead",
+				"desc": "Select and focus the local player's main Farmstead."
+			},
+			"session.focusoutpost": {
+				"name": "Focus Outpost",
+				"desc": "Select and focus the local player's main Outpost."
+			},
+			"session.focuswonder": {
+				"name": "Focus Wonder",
+				"desc": "Select and focus the local player's main Wonder."
+			},
+			"session.focustemple": {
+				"name": "Focus Temple",
+				"desc": "Select and focus the local player's main Temple."
+			},
+			"session.focusstorehouse": {
+				"name": "Focus Storehouse",
+				"desc": "Select and focus the local player's main Storehouse."
+			},
+			"session.focushouse": {
+				"name": "Focus House",
+				"desc": "Select and focus the local player's main House."
+			},
+			"session.focussiegeworkshop": {
+				"name": "Focus Siege Workshop",
+				"desc": "Select and focus the local player's main Siege Workshop."
+			},
+			"session.focusgate": {
+				"name": "Focus Gate",
+				"desc": "Select and focus the local player's main Gate."
+			},
+			"session.focusdefensetower": {
+				"name": "Focus Defense Tower",
+				"desc": "Select and focus the local player's main Defense Tower."
+			}
+		}
+	}
+}
