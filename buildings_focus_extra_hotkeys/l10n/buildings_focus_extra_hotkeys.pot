@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: buildings_focus_extra_hotkeys\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "hotkey metadata"
+msgid "In-game"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "In-game hotkeys."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Civic Center"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Civic Center."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Dock"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Dock."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Barracks"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Barracks."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Corral"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Corral."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Blacksmith"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Blacksmith."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Arsenal"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Arsenal."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Fortress"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Fortress."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Market"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Market."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Stable"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Stable."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Farmstead"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Farmstead."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Outpost"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Outpost."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Wonder"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Wonder."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Temple"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Temple."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Storehouse"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Storehouse."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus House"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main House."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Siege Workshop"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Siege Workshop."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Gate"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Gate."
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Focus Defense Tower"
+msgstr ""
+
+msgctxt "hotkey metadata"
+msgid "Select and focus the local player's main Defense Tower."
+msgstr ""
