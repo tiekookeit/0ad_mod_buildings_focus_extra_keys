@@ -34,6 +34,14 @@ The following actions are available in the game's hotkey editor:
 The actions do not have default key bindings. Assign them from the in-game
 hotkey configuration screen.
 
+## In-game hotkey editor
+
+The mod's building focus actions appear in the standard 0 A.D. hotkey editor:
+
+![Building focus hotkeys in the 0 A.D. hotkey editor](assets/screenshots/hotkey_print.png)
+
+*Building focus hotkeys displayed in the in-game configuration screen.*
+
 ## Requirements
 
 - 0 A.D. Release 28 (Boiorix) or a compatible version.
