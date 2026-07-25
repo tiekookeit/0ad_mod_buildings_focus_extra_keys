@@ -76,8 +76,8 @@ On macOS, copy it to:
 ~/Library/Application Support/0ad/mods/
 ```
 
-Then open 0 A.D., go to **Settings → Mod Selection**, enable **AoE2
-Hotkeys**, save the configuration, and restart the game.
+Then open 0 A.D., go to **Settings → Mod Selection**, enable **Building focus
+hotkeys**, save the configuration, and restart the game.
 
 The mod can also be launched from a terminal on Linux:
 

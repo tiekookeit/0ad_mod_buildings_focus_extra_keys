@@ -1,4 +1,4 @@
-# AoE2 Hotkeys
+# Building focus hotkeys
 
 GUI-only mod for 0 A.D. Release 28 (Boiorix). It adds configurable hotkeys to
 select and focus the local player's main building of each supported type:
