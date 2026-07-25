@@ -89,8 +89,11 @@ The mod can also be launched from a terminal on Linux:
 
 The mod includes Brazilian Portuguese translations in
 `buildings_focus_extra_hotkeys/l10n/pt_BR.buildings_focus_extra_hotkeys.po`.
-Other languages use the English text until a corresponding localization file
-is added.
+The complete translatable message catalog is available at
+`buildings_focus_extra_hotkeys/l10n/buildings_focus_extra_hotkeys.pot`.
+All other 0 A.D. locales are supported through the English fallback; a
+translated `<locale>.buildings_focus_extra_hotkeys.po` file can be added for
+any supported language without changing the mod code.
 
 ## License
 
