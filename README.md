@@ -72,6 +72,12 @@ On Linux:
 cp -r buildings_focus_extra_hotkeys ~/.local/share/0ad/mods/
 ```
 
+If 0 A.D. was installed through Flatpak, use this directory instead:
+
+```bash
+cp -r buildings_focus_extra_hotkeys ~/.var/app/com.play0ad.zeroad/data/0ad/mods/
+```
+
 On Windows, copy it to:
 
 ```text
