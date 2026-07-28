@@ -1,7 +1,7 @@
 # Building focus hotkeys
 
 GUI-only mod for 0 A.D. Release 28 (Boiorix). It adds configurable hotkeys to
-select and focus the local player's main building of each supported type:
+select and focus the local player's completed buildings of each supported type in a loop:
 
 `Focus Civic Center`, `Focus Dock`, `Focus Barracks`, `Focus Corral`,
 `Focus Blacksmith`, `Focus Arsenal`, `Focus Fortress`, `Focus Market`,
@@ -41,11 +41,12 @@ is added.
 ## Behaviour and limitations
 
 During a game, each action enumerates entities owned by the local player,
-accepts only completed entities of its structural class, and selects/focuses
-the lowest entity ID as the main building of that type. If that building is
-destroyed, the next lowest valid building is used. Foundations and observers
-are ignored. No simulation command, entity mutation, or network command is
-sent.
+accepts only completed entities of its structural class, and cycles selection
+and camera focus through completed buildings of that type, ordered from oldest
+to newest. Because the Release 28 GUI entity state does not expose creation
+timestamps, the mod uses ascending entity ID as the stable creation-order
+proxy. Foundations and observers are ignored. No simulation command, entity
+mutation, or network command is sent.
 
 This checkout has no installed 0 A.D. executable, so loading and in-game
 tests could not be run here. The files were checked against the Release 28

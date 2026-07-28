@@ -7,7 +7,7 @@ const focusBuildings_DEBUG = true;
 // input.js defines INVALID_ENTITY, but session scripts are loaded by directory
 // and this file may be evaluated before input.js. Keep a private sentinel.
 const focusBuildings_INVALID_ENTITY = 0;
-const focusBuildings_mainEntities = {};
+const focusBuildings_currentEntities = {};
 
 function focusBuildings_log(message)
 {
@@ -45,23 +45,25 @@ function focusBuildings_getOwned(className)
 		focusBuildings_isCompleted(GetEntityState(entityID), playerID, className));
 }
 
-function focusBuildings_resolveMain(className)
+function focusBuildings_resolveNext(className)
 {
 	const buildings = focusBuildings_getOwned(className).sort((a, b) => a - b);
 	if (!buildings.length)
 	{
-		focusBuildings_mainEntities[className] = focusBuildings_INVALID_ENTITY;
+		focusBuildings_currentEntities[className] = focusBuildings_INVALID_ENTITY;
 		return focusBuildings_INVALID_ENTITY;
 	}
 
-	const mainEntity = focusBuildings_mainEntities[className] || focusBuildings_INVALID_ENTITY;
-	if (buildings.indexOf(mainEntity) != -1)
-		return mainEntity;
+	const currentEntity = focusBuildings_currentEntities[className] || focusBuildings_INVALID_ENTITY;
+	const currentIndex = buildings.indexOf(currentEntity);
+	const nextEntity = currentIndex == -1 ?
+		buildings[0] :
+		buildings[(currentIndex + 1) % buildings.length];
 
-	// Entity IDs are monotonic in normal games, making the first completed
-	// building the best available fallback when the original one was destroyed.
-	focusBuildings_mainEntities[className] = buildings[0];
-	return buildings[0];
+	// The GUI state does not expose a building creation timestamp. Entity IDs
+	// are monotonic in normal games, so this preserves oldest-to-newest order.
+	focusBuildings_currentEntities[className] = nextEntity;
+	return nextEntity;
 }
 
 function focusBuildings_onHotkey(className)
@@ -72,7 +74,7 @@ function focusBuildings_onHotkey(className)
 		return;
 	}
 
-	const entityID = focusBuildings_resolveMain(className);
+	const entityID = focusBuildings_resolveNext(className);
 	if (entityID == focusBuildings_INVALID_ENTITY)
 	{
 		focusBuildings_log("No " + className + " available.");

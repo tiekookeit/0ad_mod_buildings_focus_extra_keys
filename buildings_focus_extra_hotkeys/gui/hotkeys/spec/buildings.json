@@ -9,75 +9,75 @@
 		"ingame": {
 			"session.focusciviccentre": {
 				"name": "Focus Civic Center",
-				"desc": "Select and focus the local player's main Civic Center."
+				"desc": "Cycle through the local player's completed Civic Center buildings, oldest to newest."
 			},
 			"session.focusdock": {
 				"name": "Focus Dock",
-				"desc": "Select and focus the local player's main Dock."
+				"desc": "Cycle through the local player's completed Dock buildings, oldest to newest."
 			},
 			"session.focusbarracks": {
 				"name": "Focus Barracks",
-				"desc": "Select and focus the local player's main Barracks."
+				"desc": "Cycle through the local player's completed Barracks buildings, oldest to newest."
 			},
 			"session.focuscorral": {
 				"name": "Focus Corral",
-				"desc": "Select and focus the local player's main Corral."
+				"desc": "Cycle through the local player's completed Corral buildings, oldest to newest."
 			},
 			"session.focusblacksmith": {
 				"name": "Focus Blacksmith",
-				"desc": "Select and focus the local player's main Blacksmith."
+				"desc": "Cycle through the local player's completed Blacksmith buildings, oldest to newest."
 			},
 			"session.focusarsenal": {
 				"name": "Focus Arsenal",
-				"desc": "Select and focus the local player's main Arsenal."
+				"desc": "Cycle through the local player's completed Arsenal buildings, oldest to newest."
 			},
 			"session.focusfortress": {
 				"name": "Focus Fortress",
-				"desc": "Select and focus the local player's main Fortress."
+				"desc": "Cycle through the local player's completed Fortress buildings, oldest to newest."
 			},
 			"session.focusmarket": {
 				"name": "Focus Market",
-				"desc": "Select and focus the local player's main Market."
+				"desc": "Cycle through the local player's completed Market buildings, oldest to newest."
 			},
 			"session.focusstable": {
 				"name": "Focus Stable",
-				"desc": "Select and focus the local player's main Stable."
+				"desc": "Cycle through the local player's completed Stable buildings, oldest to newest."
 			},
 			"session.focusfarmstead": {
 				"name": "Focus Farmstead",
-				"desc": "Select and focus the local player's main Farmstead."
+				"desc": "Cycle through the local player's completed Farmstead buildings, oldest to newest."
 			},
 			"session.focusoutpost": {
 				"name": "Focus Outpost",
-				"desc": "Select and focus the local player's main Outpost."
+				"desc": "Cycle through the local player's completed Outpost buildings, oldest to newest."
 			},
 			"session.focuswonder": {
 				"name": "Focus Wonder",
-				"desc": "Select and focus the local player's main Wonder."
+				"desc": "Cycle through the local player's completed Wonder buildings, oldest to newest."
 			},
 			"session.focustemple": {
 				"name": "Focus Temple",
-				"desc": "Select and focus the local player's main Temple."
+				"desc": "Cycle through the local player's completed Temple buildings, oldest to newest."
 			},
 			"session.focusstorehouse": {
 				"name": "Focus Storehouse",
-				"desc": "Select and focus the local player's main Storehouse."
+				"desc": "Cycle through the local player's completed Storehouse buildings, oldest to newest."
 			},
 			"session.focushouse": {
 				"name": "Focus House",
-				"desc": "Select and focus the local player's main House."
+				"desc": "Cycle through the local player's completed House buildings, oldest to newest."
 			},
 			"session.focussiegeworkshop": {
 				"name": "Focus Siege Workshop",
-				"desc": "Select and focus the local player's main Siege Workshop."
+				"desc": "Cycle through the local player's completed Siege Workshop buildings, oldest to newest."
 			},
 			"session.focusgate": {
 				"name": "Focus Gate",
-				"desc": "Select and focus the local player's main Gate."
+				"desc": "Cycle through the local player's completed Gate buildings, oldest to newest."
 			},
 			"session.focusdefensetower": {
 				"name": "Focus Defense Tower",
-				"desc": "Select and focus the local player's main Defense Tower."
+				"desc": "Cycle through the local player's completed Defense Tower buildings, oldest to newest."
 			}
 		}
 	}

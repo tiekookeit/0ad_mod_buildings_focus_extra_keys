@@ -17,7 +17,7 @@ msgid "Focus Civic Center"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Civic Center."
+msgid "Cycle through the local player's completed Civic Center buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -25,7 +25,7 @@ msgid "Focus Dock"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Dock."
+msgid "Cycle through the local player's completed Dock buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -33,7 +33,7 @@ msgid "Focus Barracks"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Barracks."
+msgid "Cycle through the local player's completed Barracks buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -41,7 +41,7 @@ msgid "Focus Corral"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Corral."
+msgid "Cycle through the local player's completed Corral buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -49,7 +49,7 @@ msgid "Focus Blacksmith"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Blacksmith."
+msgid "Cycle through the local player's completed Blacksmith buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -57,7 +57,7 @@ msgid "Focus Arsenal"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Arsenal."
+msgid "Cycle through the local player's completed Arsenal buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -65,7 +65,7 @@ msgid "Focus Fortress"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Fortress."
+msgid "Cycle through the local player's completed Fortress buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -73,7 +73,7 @@ msgid "Focus Market"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Market."
+msgid "Cycle through the local player's completed Market buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -81,7 +81,7 @@ msgid "Focus Stable"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Stable."
+msgid "Cycle through the local player's completed Stable buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -89,7 +89,7 @@ msgid "Focus Farmstead"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Farmstead."
+msgid "Cycle through the local player's completed Farmstead buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -97,7 +97,7 @@ msgid "Focus Outpost"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Outpost."
+msgid "Cycle through the local player's completed Outpost buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -105,7 +105,7 @@ msgid "Focus Wonder"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Wonder."
+msgid "Cycle through the local player's completed Wonder buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -113,7 +113,7 @@ msgid "Focus Temple"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Temple."
+msgid "Cycle through the local player's completed Temple buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -121,7 +121,7 @@ msgid "Focus Storehouse"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Storehouse."
+msgid "Cycle through the local player's completed Storehouse buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -129,7 +129,7 @@ msgid "Focus House"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main House."
+msgid "Cycle through the local player's completed House buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -137,7 +137,7 @@ msgid "Focus Siege Workshop"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Siege Workshop."
+msgid "Cycle through the local player's completed Siege Workshop buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -145,7 +145,7 @@ msgid "Focus Gate"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Gate."
+msgid "Cycle through the local player's completed Gate buildings, oldest to newest."
 msgstr ""
 
 msgctxt "hotkey metadata"
@@ -153,5 +153,5 @@ msgid "Focus Defense Tower"
 msgstr ""
 
 msgctxt "hotkey metadata"
-msgid "Select and focus the local player's main Defense Tower."
+msgid "Cycle through the local player's completed Defense Tower buildings, oldest to newest."
 msgstr ""
