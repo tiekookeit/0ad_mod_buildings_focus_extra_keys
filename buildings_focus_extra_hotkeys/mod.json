@@ -2,7 +2,7 @@
 	"name": "buildings_focus_extra_hotkeys",
 	"version": "1.0.0",
 	"label": "Building focus hotkeys",
-	"url": "https://github.com/0ad/0ad",
+	"url": "https://github.com/tiekookeit/0ad_mod_buildings_focus_extra_keys",
 	"description": "Adds configurable session hotkeys to cycle through the local player's completed buildings.",
 	"dependencies": ["0ad>=0.0.28"]
 }

@@ -55,11 +55,9 @@ From GitHub, use **Code → Download ZIP**, extract the archive, and use the
 Alternatively, clone the repository:
 
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/buildings_focus_extra_hotkeys.git
-cd buildings_focus_extra_hotkeys
+git clone https://github.com/tiekookeit/0ad_mod_buildings_focus_extra_keys.git
+cd 0ad_mod_buildings_focus_extra_keys
 ```
-
-Replace `<YOUR-USERNAME>` with the GitHub account that hosts this repository.
 
 ## Installation
 
